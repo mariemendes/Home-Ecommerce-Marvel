@@ -13,6 +13,6 @@ gulp
 
 
 by Mariane Mendes
-email: mariane-cristina@uol.com.br
-phone: +55 11 9 7375-1104
+email: marianemendes1104@gmail.com
+phone: +1 6043692968
 
